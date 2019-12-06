@@ -1,4 +1,5 @@
 # CommonUtils
+[![](https://jitpack.io/v/lansehuoying/CommonUtils.svg)](https://jitpack.io/#lansehuoying/CommonUtils)
 ```
 1.项目根目录build.gradle中添加
 
